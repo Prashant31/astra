@@ -1,0 +1,10 @@
+{
+  "generator-flask-api": {
+    "appName": "app",
+    "database": "mysql",
+    "databaseMapper": "sqlalchemy",
+    "versioningScheme": "none",
+    "currentVersion": "",
+    "urlPrefix": ""
+  }
+}
